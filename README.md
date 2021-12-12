@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @kumso
-- 👀 I’m interested in Open Source, Problem solving.
-- 🌱 I’m currently learning git/github.
-- 💞️ I’m looking to collaborate on project.
-- 📫 Email - sonukmrpndt@gmail.com
+## **Hi there** 👋!
+I am **Sonu Kumar**
 
-<!---
-kumso/kumso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+I am a 2nd year student at USICT, Delhi. 
+
+## Coding Skills
+<p>
+  <img src="https://camo.githubusercontent.com/8fca5c95cc983578ef599700d97e264dc729660668b4eb75510e5fb2099683a4/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f34362f3632362f706e672d7472616e73706172656e742d632d6c6f676f2d7468652d632d70726f6772616d6d696e672d6c616e67756167652d636f6d70757465722d69636f6e732d636f6d70757465722d70726f6772616d6d696e672d736f757263652d636f64652d70726f6772616d6d696e672d6d697363656c6c616e656f75732d74656d706c6174652d626c75652e706e67" height=70px/>
+  </p>
+
+## Other Skills
+- **Languages**
+
+   - Hindi
+   - English
+
+- **Soft Skills**
+
+   - Problem Solving
+   - Teamwork
+   - Communication
+
+## Contact Me
+
+[<img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/kumso) 
+[<img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />](https://www.linkedin.com/in/sonu-kumar-8760561b8/)
+
+## 📊 Stats
+![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumso&show_icons=true&theme=radical)
