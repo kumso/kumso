@@ -1,30 +1,31 @@
-## **Hi there** 👋!
-I am **Sonu Kumar**
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0)
+<h1 align="center">Hi 👋, I'm Sonu Kumar Pandit</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-## About me
-I am a 2nd year student at USICT, Delhi. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumso&label=Profile%20views&color=0e75b6&style=flat" alt="kumso" /> </p>
 
-## Coding Skills
-<p>
-  <img src="https://camo.githubusercontent.com/8fca5c95cc983578ef599700d97e264dc729660668b4eb75510e5fb2099683a4/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f34362f3632362f706e672d7472616e73706172656e742d632d6c6f676f2d7468652d632d70726f6772616d6d696e672d6c616e67756167652d636f6d70757465722d69636f6e732d636f6d70757465722d70726f6772616d6d696e672d736f757263652d636f64652d70726f6772616d6d696e672d6d697363656c6c616e656f75732d74656d706c6174652d626c75652e706e67" height=70px/>
-  </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Other Skills
-- **Languages**
+- 🔭 I’m currently working on **Chit-Chat**
 
-   - Hindi
-   - English
+- 🌱 I’m currently learning **React.js**
 
-- **Soft Skills**
+- 💬 Ask me about **Competitive Programming, MERN**
 
-   - Problem Solving
-   - Teamwork
-   - Communication
+- 📫 How to reach me **sonukmrpndt@gmail.com**
 
-## Contact Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kumso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumso" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sonu_198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sonu_198" height="30" width="40" /></a>
+</p>
 
-[<img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/kumso) 
-[<img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />](https://www.linkedin.com/in/sonu-kumar-8760561b8/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 📊 Stats
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumso&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumso&show_icons=true&locale=en&layout=compact" alt="kumso" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumso&show_icons=true&locale=en" alt="kumso" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumso&" alt="kumso" /></p>
